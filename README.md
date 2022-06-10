@@ -1,6 +1,6 @@
-# GO Projects
+# Go Stuff 
 
-Uhhhh
+Don't read my commit history, this is of relative importance.
+Random things, from tutorials online to stuff I read in a book to practice.
 
-Of lesser importance (prioritization is on Ruby, JS, and Dart),
-but still seems cool
+![image](https://user-images.githubusercontent.com/77761679/173117389-af7894bc-8069-4fee-962f-769806a65d7a.png)
